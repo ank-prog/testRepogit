@@ -1,0 +1,154 @@
+{
+  "signup" : [
+    {
+      "id":1,
+      "email": "abc@gmail.com",
+      "password": "Abcd@123"
+    }
+  ],
+  "GirlImages": [{
+    "id":1,
+    "description": "Lady with a Teddy",
+    "imageurl": "https://images.pexels.com/photos/3812944/ankitaapurba"
+  },
+  {
+    "id":2,
+    "description": "Girl with camera",
+    "imageurl": "https://images.pexels.com/photos/3812944/pexels-photo-3812944.jpeg"
+  },
+  {
+    "id":3,
+    "description": "Beautiful Girl with Glasses",
+    "imageurl": "https://images.pexels.com/photos/2100063/pexels-photo-2100063.jpeg"
+  },
+  {
+    "id":4,
+    "description": "Redhead with frackles",
+    "imageurl": "https://images.pexels.com/photos/3228213/pexels-photo-3228213.jpeg"
+  },
+  {
+    "id":5,
+    "description": "Girl in black dress",
+    "imageurl": "https://images.pexels.com/photos/1385472/pexels-photo-1385472.jpeg"
+  },
+  {
+    "id":6,
+    "description": "Girl Sitting on Chair",
+    "imageurl": "https://images.pexels.com/photos/4725133/pexels-photo-4725133.jpeg"
+  },
+  {
+    "id":7,
+    "description": "Leader structure safe or black late wife newspaper her pick central forget single likely.",
+    "imageurl": "https://api.slingacademy.com/public/sample-photos/1.jpeg"
+  },
+  {
+    "id":8,
+    "description": "Beautiful Girl with Glasses",
+    "imageurl": "https://images.pexels.com/photos/2100063/pexels-photo-2100063.jpeg"
+  },
+  {
+    "id":9,
+    "description": "Redhead with frackles",
+    "imageurl": ""
+  },
+  {
+    "id":10,
+    "description": "Girl in black dress",
+    "imageurl": "https://images.pexels.com/photos/1385472/pexels-photo-1385472.jpeg"
+  },
+  {
+    "id":11,
+    "description": "Girl Sitting on Chair",
+    "imageurl": "https://images.pexels.com/photos/4725133/pexels-photo-4725133.jpeg"
+  },
+  {
+    "id":12,
+    "description": "Leader structure safe or black late wife newspaper her pick central forget single likely.",
+    "imageurl": "https://api.slingacademy.com/public/sample-photos/1.jpeg"
+  }
+],
+"data": [
+  {
+   "id": 1,
+   "name": "cerulean",
+   "year": 2000,
+   "color": "#98B2D1",
+   "pantone_value": "15-4020"
+  },
+  {
+   "id": 2,
+   "name": "fuchsia rose", 
+   "year": 2001, 
+   "color": "#C74375",
+   "pantone_value": "17-2031"
+  },
+  {
+   "id": 3, 
+   "name": "true red", 
+   "year": 2002, 
+   "color": "#BF1932", 
+   "pantone_value": "19-1664" 
+  }, 
+  {
+   "id": 4, 
+   "name": "aqua sky",
+   "year": 2003,
+   "color": "#7BC4C4",
+   "pantone_value": "14-4811"
+  },
+  { 
+   "id": 5,
+   "year": 2004, 
+   "color": "#E2583E", 
+   "pantone_value": "17-1456" 
+  },
+  {  
+   "id": 6, 
+   "name": "blue turquoise", 
+   "year": 2005,            
+   "color": "#53B0AE",
+   "pantone_value": "15-5217"
+  },
+  {
+    "id": 7,
+    "name": "cerulean",
+    "year": 2000,
+    "color": "#98B2D1",
+    "pantone_value": "15-4020"
+   },
+   {
+    "id": 8,
+    "name": "fuchsia rose", 
+    "year": 2001, 
+    "color": "#C74375",
+    "pantone_value": "17-2031"
+   },
+   {
+    "id": 9, 
+    "name": "true red", 
+    "year": 2002, 
+    "color": "#BF1932", 
+    "pantone_value": "19-1664" 
+   }, 
+   {
+    "id": 10, 
+    "name": "aqua sky",
+    "year": 2003,
+    "color": "#7BC4C4",
+    "pantone_value": "14-4811"
+   },
+   { 
+    "id": 11,
+    "year": 2004, 
+    "color": "#E2583E", 
+    "pantone_value": "17-1456" 
+   },
+   {  
+    "id": 12, 
+    "name": "blue turquoise", 
+    "year": 2005,            
+    "color": "#53B0AE",
+    "pantone_value": "15-5217"
+   }
+   ]
+}

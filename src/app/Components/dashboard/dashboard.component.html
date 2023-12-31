@@ -1,0 +1,17 @@
+<div >
+  <div class="card mt-3" style="width: 18rem;" *ngFor="let image of data " appScrollToElement [scrollToElement]="image.id">
+    <div class="card-body">
+      <img [src]='image.imageurl' errorImage="../../../assets/download.png"   alt="..." style="height: 200px; width:200px"
+      loading="lazy" >
+    </div>
+  </div>
+  <mat-paginator [length]="imageList.length"
+  [pageSize]="size"
+  [pageIndex]="page"
+  [pageSizeOptions]="[4, 8, 12]"
+  (page)="getData($event)" aria-label="Select page">
+  </mat-paginator>
+
+</div>
+
+ 
